@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Delete records from database using PHP - Coding Birds Online</title>
+    <title>Delete records from database using PHP - Zangtics Digital</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <link rel="icon" href="https://codingbirdsonline.com/wp-content/uploads/2019/12/cropped-coding-birds-favicon-2-1-192x192.png" type="image/x-icon">
+    <link rel="icon" href="" type="image/x-icon">
     <style>
         #thead>tr>th{ color: white; }
     </style>
@@ -15,7 +15,7 @@
 <body>
 <div style="margin-top: 20px;padding-bottom: 20px;">
     <center>
-        <img width="100" src="https://codingbirdsonline.com/wp-content/uploads/2019/12/cropped-coding-birds-favicon-2-1-192x192.png"/>
+        <img width="100" src="https://zangticsdigital.com/storage/web-logo-rr-1.png"/>
         <h3>Delete records from database using PHP </h3>
     </center>
 </div>
